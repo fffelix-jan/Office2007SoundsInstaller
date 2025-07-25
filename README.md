@@ -9,7 +9,7 @@ This is the official installer for accessibility sound effects in Office 2007, w
 5. Close all Office programs.  
 6. Download `Sounds.EXE` from one of these sources:  
    - [Wayback Machine](https://web.archive.org/web/20070320010602if_/http://download.microsoft.com:80/download/OfficeXPStandard/sounds/1/W98NT42KMe/EN-US/Sounds.EXE)  
-   - This repository  
+   - [This repository](https://github.com/fffelix-jan/Office2007SoundsInstaller/releases/download/installer/Sounds.EXE)
    - [My website](https://www.felixan.ca/direct/Sounds.EXE) (*works in the Chinese mainland*)  
 7. Run the installer and follow the on-screen instructions.  
 8. Reopen your Office applications—sound effects (e.g., for saving, undoing) should now be audible.  
